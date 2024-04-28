@@ -43,7 +43,9 @@ This project aims to enhance medical information retrieval for remote patients i
 
 1. Run `python ingest.py` to create the database and ingest the medical documents. The Qdrant dashboard will be available at `http://localhost:6333/dashboard`.
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/f2235852-0153-4db8-991f-57cfb9714641)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/9d7fa324-db51-47b7-bde3-0a9eb49aa04b)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/1079fad4-baeb-402b-86ae-47e412da00eb)
 
 
