@@ -50,9 +50,13 @@ This project aims to enhance medical information retrieval for remote patients i
 
 
 
-3. Run `python retriever.py` to check if the model is responding well.
+2. Run `python retriever.py` to check if the model is responding well.
 
-4. Run `uvicorn rag.py` to start the FastAPI and Flask-based application.
+Top 2 retrived chunks with meta-data based on question : What is Metastatic disease?
+![image](https://github.com/fenil210/Medical-RAG/assets/121050723/3bee2ee8-4a8e-48e6-8b68-fcb4d4dcc858)
+
+
+3. Run `uvicorn rag.py` to start the FastAPI and Flask-based application.
 
 ## Contributing
 
