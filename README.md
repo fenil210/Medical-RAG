@@ -36,6 +36,8 @@ This project aims to enhance medical information retrieval for remote patients i
 4. Run `docker images` to check the available images.
 5. Run `docker ls` to check the running containers.
 6. Run `docker run -p 6333:6333 qdrant/qdrant` to start the Qdrant container.
+7. ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/6579c70e-e697-40b2-8142-72ea175ae1a0)
+
 
 ### Usage
 
