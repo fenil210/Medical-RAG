@@ -56,7 +56,12 @@ Top 2 retrived chunks with meta-data based on question : What is Metastatic dise
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/3bee2ee8-4a8e-48e6-8b68-fcb4d4dcc858)
 
 
-3. Run `uvicorn rag.py` to start the FastAPI and Flask-based application.
+3. Run `uvicorn rag:app` to start the FastAPI and Flask-based application. (check at:  http://127.0.0.1:8000)
+- the app will give output on an average 25-30 seconds due to LLM running on local machine with CPU. It will also give the context along with meta-data such as from which document, from which page etc. 
+![image](https://github.com/fenil210/Medical-RAG/assets/121050723/e855e0fe-771a-4720-a070-6fd2eaccfd14)
+
+![image](https://github.com/fenil210/Medical-RAG/assets/121050723/6dbf6c87-e9ae-4042-a7b3-4550b9a3f5af)
+
 
 ## Contributing
 
