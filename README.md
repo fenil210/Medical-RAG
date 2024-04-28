@@ -36,16 +36,16 @@ This project aims to enhance medical information retrieval for remote patients i
 4. Run `docker images` to check the available images.
 5. Run `docker ls` to check the running containers.
 6. Run `docker run -p 6333:6333 qdrant/qdrant` to start the Qdrant container.
-7. ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/6579c70e-e697-40b2-8142-72ea175ae1a0)
+![image](https://github.com/fenil210/Medical-RAG/assets/121050723/6579c70e-e697-40b2-8142-72ea175ae1a0)
 
 
 ### Usage
 
 1. Run `python ingest.py` to create the database and ingest the medical documents. The Qdrant dashboard will be available at `http://localhost:6333/dashboard`.
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/f2235852-0153-4db8-991f-57cfb9714641)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/9d7fa324-db51-47b7-bde3-0a9eb49aa04b)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/fenil210/Medical-RAG/assets/121050723/1079fad4-baeb-402b-86ae-47e412da00eb)
 
 
