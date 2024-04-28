@@ -1,0 +1,15 @@
+torch
+sentence_transformers
+transformers 
+langchain
+fastapi
+uvicorn
+pypdf
+PyPDF2
+jinja2
+qdrant-client
+ctransformers 
+python-multipart
+aiofiles
+urllib3==1.26.18
+langchain-text-splitters

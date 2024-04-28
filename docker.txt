@@ -1,0 +1,10 @@
+1) download docket desktop
+2) open powershell
+3) do docker pull qdrant/qdrant
+4) docker images
+5) docker ls : to check what is there at containiner
+6) docker run -p 6333:6333 qdrant/qdrant : to run this qdrant 
+
+7) conda create -p venv/
+8) conda activate venv/
+
