@@ -20,7 +20,7 @@ This project aims to enhance medical information retrieval for remote patients i
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-repo/semantic-chunking-rag-chatbot.git
+1. Clone the repository: git clone [https://github.com/your-repo/semantic-chunking-rag-chatbot.git](https://github.com/fenil210/Medical-RAG)
 
 2. Install the required Python packages: pip install -r requirements.txt
 
